@@ -55,7 +55,7 @@ The global and Chinese models showed near-complete overlap between predicted and
 ## Repository Structure
 
 ```
-├── CO2_emissions_analysis.ipynb   # Full analysis notebook
+├── co2emission.ipynb   # Full analysis notebook
 ├── requirements.txt               # Python dependencies
 └── README.md
 ```
